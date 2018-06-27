@@ -8,5 +8,5 @@ $TTL 86400
 ;
 	IN NS	ns3.example.org.
 	IN NS	ns4.example.org.
-ns1	IN A	192.0.2.153
-ns2	IN A	198.51.100.153
+ns3	IN A	192.0.2.153
+ns4	IN A	198.51.100.153
